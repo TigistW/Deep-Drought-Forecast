@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch
+shap
+earthengine-api
+joblib
+scikit-learn
+numpy
+pandas
